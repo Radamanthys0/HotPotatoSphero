@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HotPoatoSphero</string>
+    <string name="title_activity_tela_start">TelaStart</string>
+    <string-array name="Cores">
+        <item>Vermelho</item>
+        <item>Azul</item>
+        <item>Branco</item>
+        <item>Rosa</item>
+        <item>Amarelo</item>
+        <item>Roxo</item>>
+    </string-array>
+</resources>
